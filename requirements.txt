@@ -1,0 +1,9 @@
+# Python 3.10 - 3.13 (CrewAI does not yet support 3.14)
+crewai[anthropic]>=1.15.0
+crewai-tools>=1.15.0
+anthropic>=0.73.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
