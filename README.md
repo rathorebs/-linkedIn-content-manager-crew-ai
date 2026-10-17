@@ -4,6 +4,8 @@ A five-agent [CrewAI](https://www.crewai.com/) pipeline, powered by Claude, that
 
 **Research → Writing → Critique → Optimization → Scheduling**
 
+**GitHub:** https://github.com/rathorebs/-linkedIn-content-manager-crew-ai
+
 You can use it in two ways:
 
 - **Web app:** a FastAPI backend (`api.py`) and a React frontend (`frontend/`)
